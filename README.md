@@ -6,4 +6,4 @@ NinjaCoin Mobile Wallet
 
 ![qrcode](https://user-images.githubusercontent.com/47786795/58746176-859c1580-845b-11e9-8677-1803b152a298.png)
 
-Scan Me!
+Download App, Scan Me!
